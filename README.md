@@ -8,7 +8,7 @@ Power‑Continues‑style prompt buttons for ChatGPT
 **Install:**  
 - Click the badge on GreasyFork  
 - Or paste into your userscript manager:  
-  `https://raw.githubusercontent.com/hexpreso/chatgpt-power-continues/main/chatgpt-power-continues.user.js`
+  `https://raw.githubusercontent.com/hxreborn/chatgpt-power-continues/main/chatgpt-power-continues.user.js`
 
 **Use:**  
 - Click a prompt to insert and optionally send
