@@ -3,7 +3,7 @@
 // @namespace    https://greasyfork.org/users/rafagale
 // @version      1.0.0
 // @description  Quick prompt helper for ChatGPT
-// @author       hexpreso
+// @author       hxreborn
 // @icon         https://chat.openai.com/favicon.ico
 // @run-at       document-idle
 // @match        https://chat.openai.com/*
@@ -12,7 +12,7 @@
 // @grant        GM_setValue
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
-// @resource     prompts https://raw.githubusercontent.com/hexpreso/chatgpt-power-continues/master/prompts/prompts.json
+// @resource     prompts https://raw.githubusercontent.com/hxreborn/chatgpt-power-continues/master/prompts/prompts.json
 // @license      MIT; https://opensource.org/licenses/MIT
 // ==/UserScript==
 
